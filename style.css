@@ -166,7 +166,7 @@ span{
 }
 
 ::-webkit-scrollbar-thumb{
-    background-color: orangered;
+    background-color: rgb(18, 192, 241);
 }
 
 ::-webkit-scrollbar-track{
